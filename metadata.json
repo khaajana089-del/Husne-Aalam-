@@ -1,0 +1,6 @@
+{
+  "name": "CaptionX AI",
+  "description": "World's most advanced AI Caption Studio that integrates real-time video analysis with automated viral-ready subtitle generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
